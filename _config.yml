@@ -1,0 +1,13 @@
+title: 'Grok订阅 2026：四档会员价格、SuperGrok现在叫什么、怎么选'
+description: 'Grok订阅（2026-10）：SuperGrok 现在叫 Premium，四档官方价和额度、Grok Heavy 去哪了、怎么选档；国内可在瑶瑶ai训练师商城 ¥239 开通（店主自营）'
+lang: zh-CN
+theme: jekyll-theme-cayman
+exclude:
+  - LICENSE
+
+# 正本是 GitHub 仓库页，网页版的 canonical 指回 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/yaoyao-chat/grok"
